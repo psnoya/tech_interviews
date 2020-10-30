@@ -27,6 +27,19 @@ cars
 
 cars[1][:color]
 => "blue"
-'''
+```
+
+## Question 4 
+
+rspec --init
+
+Running the tests maked it easier to write code as the error guide you to the solution.
+
+Helps finding the errors and fixing them 
+```
+As a programmed
+In order to change the color of their car
+I want to create an option that will allow it
+```
 
 
