@@ -1,9 +1,14 @@
+## Question 1
+
 variable = 'variable' 
+
 integer = 1
+
 string = 'blah blah blah' 
+
 floats = 1,5
 
-Question 2: 
+## Question 2  
 ```
 cars
 => []                          ^
