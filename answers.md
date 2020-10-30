@@ -4,6 +4,7 @@ string = 'blah blah blah'
 floats = 1,5
 
 Question 2: 
+```
 cars
 => []                          ^
 car1 = {wheels: 4, max_speed: 50, color: 'orange' }
@@ -21,6 +22,6 @@ cars
 
 cars[1][:color]
 => "blue"
-
+'''
 
 
